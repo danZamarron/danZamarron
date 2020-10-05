@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am Daniel. System and Information Technology with a Masters Degree in Computer Science!
+
+Just finished a bootcamp related to web development with MERN Stack!
+
+I have a passion to learn new technologies and practices inside and outside my area of expertise
+
+My personal interests are :joystick: videogame development,  :joystick: news related to videogames industry, web development and 3D printers
+
 
 <!--
 **danZamarron/danZamarron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
